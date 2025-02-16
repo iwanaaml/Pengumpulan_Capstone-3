@@ -1,0 +1,17 @@
+# Core Libraries
+pandas
+numpy
+scipy
+seaborn
+matplotlib
+
+# Machine Learning & Preprocessing
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+imblearn
+
+# Streamlit for Deployment
+streamlit
+
