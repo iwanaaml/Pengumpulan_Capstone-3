@@ -11,6 +11,7 @@ xgboost
 lightgbm
 imbalanced-learn
 imblearn
+category-encoders
 
 # Streamlit for Deployment
 streamlit
